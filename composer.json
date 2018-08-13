@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-statistics",
+    "name": "ardacebi/flarum-ext-statistics",
     "description": "Add a basic statistics widget on the Dashboard.",
     "type": "flarum-extension",
     "keywords": ["administration"],
